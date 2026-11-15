@@ -4,6 +4,7 @@
 *Seattle, WA · Claude Certified Architect Foundations · Distributed Systems, Runtime Information-Flow Control (IFC) & Model Context Protocol (MCP) Security*
 
 [![GitHub — mcp-cage](https://img.shields.io/badge/Featured%20Project-mcp--cage%20v0.2.2-1f6feb?style=flat-square&logo=github)](https://github.com/nagarajulu/mcp-cage)
+[![Live Interactive Sandbox](https://img.shields.io/badge/🌐%20Interactive%20Web%20Sandbox-nagarajulu.github.io%2Fmcp--cage-06b6d4?style=flat-square)](https://nagarajulu.github.io/mcp-cage/)
 [![CI Status](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/Open%20Source-MIT-success?style=flat-square)](https://github.com/nagarajulu/mcp-cage/blob/main/LICENSE)
 
@@ -18,7 +19,8 @@ I design and build high-assurance distributed systems and deterministic runtime 
 ### Featured Open-Source Project
 
 #### 🛡️ [`mcp-cage`](https://github.com/nagarajulu/mcp-cage) — Zero-Code Wire & Native-Hook Security Firewall for AI Coding Agents & MCP
-> *"Gitleaks + Little Snitch for AI Coding Agents"* — **100% Python 3.10+ Standard Library · Zero External Dependencies**
+> *"Gitleaks + Little Snitch for AI Coding Agents"* — **100% Python 3.10+ Standard Library · Zero External Dependencies**  
+> 🌐 **Live Interactive Architecture, Exploit Simulator & Config Generator:** [**`https://nagarajulu.github.io/mcp-cage/`**](https://nagarajulu.github.io/mcp-cage/)
 
 Modern AI coding agents regularly encounter the **Lethal Trifecta** (private credential access + untrusted external content ingestion + external network/shell actuation). **`mcp-cage`** enforces deterministic, non-bypassable security boundaries outside the LLM context window across both **Plane A (`stdio` MCP JSON-RPC 2.0 Wire Proxy)** and **Plane B (Native Agent Lifecycle Hooks)**:
 
