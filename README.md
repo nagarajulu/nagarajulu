@@ -1,6 +1,6 @@
 # Nagarajulu (Naga) Aerakoni
 
-**Independent Security Researcher** · **Senior Distributed Systems & AI Agent Security Engineer**  
+**Senior Software & Distributed Systems Engineer** · **Independent Security Researcher**  
 *Seattle, WA · Claude Certified Architect Foundations · Distributed Systems, Runtime Information-Flow Control (IFC) & Model Context Protocol (MCP) Security*
 
 [![GitHub — mcp-cage](https://img.shields.io/badge/Featured%20Project-mcp--cage%20v0.4.1-1f6feb?style=flat-square&logo=github)](https://github.com/nagarajulu/mcp-cage)
