@@ -1,12 +1,13 @@
 # Nagarajulu (Naga) Aerakoni
 
-**Senior Software Engineer @ Amazon** · **AI & Agentic Systems Security Researcher & Architect**  
+**Independent Security Researcher** · **Senior Distributed Systems & AI Agent Security Engineer**  
 *Seattle, WA · Claude Certified Architect Foundations · Distributed Systems, Runtime Information-Flow Control (IFC) & Model Context Protocol (MCP) Security*
 
 [![GitHub — mcp-cage](https://img.shields.io/badge/Featured%20Project-mcp--cage%20v0.4.1-1f6feb?style=flat-square&logo=github)](https://github.com/nagarajulu/mcp-cage)
 [![PyPI — mcp-cage](https://img.shields.io/pypi/v/mcp-cage.svg?style=flat-square)](https://pypi.org/project/mcp-cage/)
 [![Live Interactive Sandbox](https://img.shields.io/badge/🌐%20Interactive%20Web%20Sandbox-nagarajulu.github.io%2Fmcp--cage-06b6d4?style=flat-square)](https://nagarajulu.github.io/mcp-cage/)
 [![CI Status](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4269--0169-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4269-0169)
 [![KineticBloom](https://img.shields.io/badge/🌱%20KineticBloom-kineticbloom.org-10b981?style=flat-square)](https://github.com/nagarajulu/kinetic-bloom)
 
 ---
@@ -49,4 +50,4 @@ A privacy-first, offline-capable progressive web application (React 19, TypeScri
 | :--- | :--- |
 | **Agentic & LLM Security** | Model Context Protocol (MCP) Firewalls, Indirect Prompt Injection (`XPIA`) Defense, Lethal Trifecta Mitigation, Tool & Skill Poisoning (`MCPTox` / `CurXecute` / `SKILL.md` AST) Prevention, Cryptographic Datamarking (*Spotlighting*) |
 | **Systems & Information-Flow Control** | Dual-Lattice Taint Tracking (*FIDES* / *CaMeL* / *HiStar* / *Flume*), Capability-Based Confinement (*Capsicum* / Seatbelt / Landlock), Provenance Attribution (*MELON*), Cross-Process SQLite WAL State Machines |
-| **Large-Scale Distributed Systems** | High-Throughput Cloud Services @ Amazon, Fault-Tolerant Storage & Messaging Pipelines, Zero-Trust Service Architectures |
+| **Large-Scale Distributed Systems** | High-Throughput Cloud & Backend Services, Fault-Tolerant Storage & Messaging Pipelines, Zero-Trust Service Architectures |
