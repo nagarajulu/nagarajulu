@@ -7,7 +7,7 @@
 [![PyPI — mcp-cage](https://img.shields.io/pypi/v/mcp-cage.svg?style=flat-square)](https://pypi.org/project/mcp-cage/)
 [![Live Interactive Sandbox](https://img.shields.io/badge/🌐%20Interactive%20Web%20Sandbox-nagarajulu.github.io%2Fmcp--cage-06b6d4?style=flat-square)](https://nagarajulu.github.io/mcp-cage/)
 [![CI Status](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4269--0169-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4269-0169)
+<!-- Uncomment on Preprint Launch Day: [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4269--0169-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4269-0169) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nagarajulu-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarajulu/)
 [![KineticBloom](https://img.shields.io/badge/🌱%20KineticBloom-kineticbloom.org-10b981?style=flat-square)](https://github.com/nagarajulu/kinetic-bloom)
 
