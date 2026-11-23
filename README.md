@@ -3,7 +3,7 @@
 **Senior Software & Distributed Systems Engineer** · **Independent Security Researcher**  
 *Seattle, WA · Claude Certified Architect Foundations · Distributed Systems, Runtime Information-Flow Control (IFC) & Model Context Protocol (MCP) Security*
 
-[![GitHub — mcp-cage](https://img.shields.io/badge/Featured%20Project-mcp--cage%20v0.4.1-1f6feb?style=flat-square&logo=github)](https://github.com/nagarajulu/mcp-cage)
+[![GitHub — mcp-cage](https://img.shields.io/badge/Featured%20Project-mcp--cage%20v0.4.2-1f6feb?style=flat-square&logo=github)](https://github.com/nagarajulu/mcp-cage)
 [![PyPI — mcp-cage](https://img.shields.io/pypi/v/mcp-cage.svg?style=flat-square)](https://pypi.org/project/mcp-cage/)
 [![Live Interactive Sandbox](https://img.shields.io/badge/🌐%20Interactive%20Web%20Sandbox-nagarajulu.github.io%2Fmcp--cage-06b6d4?style=flat-square)](https://nagarajulu.github.io/mcp-cage/)
 [![CI Status](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarajulu/mcp-cage/actions/workflows/ci.yml)
@@ -21,7 +21,7 @@ I design and build high-assurance distributed systems, deterministic runtime sec
 
 ### Featured Open-Source Projects & Applications
 
-#### 1. 🛡️ [`mcp-cage`](https://github.com/nagarajulu/mcp-cage) (`v0.4.1`) — Zero-Code Wire & Native-Hook Security Firewall for AI Coding Agents & MCP
+#### 1. 🛡️ [`mcp-cage`](https://github.com/nagarajulu/mcp-cage) (`v0.4.2`) — Zero-Code Wire & Native-Hook Security Firewall for AI Coding Agents & MCP
 > *"Gitleaks + Little Snitch for AI Coding Agents"* — **100% Python 3.10+ Standard Library · Zero External Dependencies**  
 > 🌐 **Live Interactive Sandbox & Config Generator:** [**`https://nagarajulu.github.io/mcp-cage/`**](https://nagarajulu.github.io/mcp-cage/) · 📦 **PyPI:** [**`pip install mcp-cage`**](https://pypi.org/project/mcp-cage/) · 💻 **GitHub:** [**`https://github.com/nagarajulu/mcp-cage`**](https://github.com/nagarajulu/mcp-cage)
 
